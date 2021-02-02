@@ -7,3 +7,6 @@ manual
 rest assured
 spring mvc
 spring boot
+Django
+Flask
+Requests
