@@ -5,3 +5,5 @@ python
 selenium
 manual
 rest assured
+spring mvc
+spring boot
