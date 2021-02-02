@@ -3,3 +3,5 @@ c++
 java
 python
 selenium
+manual
+rest assured
