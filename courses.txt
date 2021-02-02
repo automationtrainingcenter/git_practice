@@ -5,3 +5,6 @@ python
 selenium
 manual
 rest assured
+Django
+Flask
+Requests
